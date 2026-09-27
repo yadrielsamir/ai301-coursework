@@ -76,7 +76,7 @@ fields.
 
 **Package analysis**
 
-pkg-20. In run 3 my rubric decided accept; the gold label is reject. The repo's AI policy requires disclosing AI use in the contribution, and neither comment discloses. My grader's evidence for conventions-respected read: "No AI use is evident in the comments, so the disclosure requirement (triggered only by AI use) does not apply". My rule said only that comments must disclose when the policy requires it, so it left room to decide the policy did not apply. In run 1 the same rule had rejected pkg-20, which showed the rule was ambiguous rather than wrong in one direction. I added that a missing disclosure fails even when no AI use is evident, because a grader cannot observe whether AI was used. In run 5 my rubric rejected pkg-20, matching gold.
+pkg-20. In run 3 my rubric decided accept; the gold label is reject. The repo's AI policy requires disclosing AI use in the contribution, and neither comment discloses. My grader's evidence for conventions-respected read: "No AI use is evident in the comments, so the disclosure requirement (triggered only by AI use) does not apply". My rule said only that comments must disclose when the policy requires it, so it left room to decide the policy did not apply. In run 1 the same rule had rejected pkg-20, which showed the rule was ambiguous rather than wrong in one direction. I added that a missing disclosure fails even when no AI use is evident, because a grader cannot observe whether AI was used. In run 4 my rubric rejected pkg-20, matching gold.
 
 **Check rationale**
 
